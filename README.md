@@ -1,6 +1,6 @@
 # Satellite Health Monitor
 
-![Satellite Health Monitor](./banner.gif)
+![Satellite Health Monitor](./banner.svg)
 
 A machine learning pipeline that predicts satellite orbital decay risk using live Two-Line Element (TLE) data. The model pulls real-time orbital data for active satellites, engineers physics-based features, and trains an XGBoost classifier to flag satellites that may be at risk of atmospheric re-entry / decay in the near term.
 
